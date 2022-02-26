@@ -2,15 +2,15 @@
 ***
 Creación de API REST para la optativa Web Plataforms
 
-##Contruido con
+## Contruido con
 ***
 * node.js
 * express js
 
-##Version
+## Version
 ***
 0.0.1
 
-##Autor
+## Autor
 ***
 Norma Angélica García Martínez - 329528
