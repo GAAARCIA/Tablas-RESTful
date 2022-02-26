@@ -1,6 +1,16 @@
-# TAREA | Tablas RESTful
+# TAREA | Tablas RESTfull
 ***
-Creación de API REST para la optativa Web Plataforms
+API REST para la optativa Web Plataforms
+
+## RESTfull
+***
+Crear API REST utilizando la siguiente tabla RESTFull:
+
+* GET /results/:n1/:n2 -> Sumar n1 + n2
+* POST /results/ -> Multiplicar n1 * n2
+* PUT /results/ -> Dividir n1 / n2
+* PATCH /results/ -> Potencia n1 ^ n2
+* DELETE /results/:n1/:n2 -> restar n1 - n2
 
 ## Contruido con
 ***
